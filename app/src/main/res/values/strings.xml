@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NooroProject</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="uv_text">UV</string>
+    <string name="feels_like_text">Feels Like</string>
+    <string name="search_location_placeholder">Search Location</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="try_again">Try again</string>
+    <string name="no_city_selected">No City Selected</string>
+    <string name="please_search_for_a_city">Please Search for a City</string>
+</resources>
